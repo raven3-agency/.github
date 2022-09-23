@@ -1,6 +1,6 @@
 
 <p align="right">
-<img src="https://github.com/raven3-agency/.github/blob/main/profile/logo.png">
+<img src="https://github.com/raven3-agency/.github/blob/main/profile/ravn.png">
 </p>
 <!--
 
